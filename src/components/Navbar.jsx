@@ -23,7 +23,7 @@ const Navbar = () => {
     <div className="navbar" >
       <div>
       <div className="section1">
-        <p style={{textDecoration:'none'}} ><p className='netflix'>NETFLIX-Clons</p></p>
+        <p style={{textDecoration:'none'}} ><p className='netflix'>MOVIFLIX</p></p>
         
       </div>
       <div className="section2">
